@@ -1,8 +1,10 @@
 So I wanted to make heirlooms for wotlk and although they arenot perfect, I think its good enough to share.
 The project has been through 3 versions and will scrap the previous 2 versions. Was a fun project and yes mistakes were made.
 
-Goal 1 was not to be crazy o.p. on stats so I have based them on the 182 greens at lv80. 
-Added a few more dungeon 1 sets, mage, priest, hunter and deathknight. Now there is one for every class.
+Goal 1 was not to be crazy o.p. on stats so I have based them on the 178 greens at lv80. 
+Added a few more dungeon 1 sets, mage, priest, hunter and deathknight, also a few extra sets depending on spec, 
+paladin, shaman now have 2 sets each. Now there is one for every class and 2 for some.
+
 Added only a few more rings, cloaks, trinkets.
 The true value of heirlooms I think is in the convineance of leveling with out having to repair.
 
